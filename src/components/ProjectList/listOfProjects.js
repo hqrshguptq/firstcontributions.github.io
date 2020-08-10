@@ -61,7 +61,15 @@ const projectList = [
     projectLink: 'https://github.com/elastic/elasticsearch/contribute',
     description: 'Open Source, Distributed, RESTful Search Engine.',
     tags: ['REST', 'Docs', 'Java', 'Lucene'],
-  }, {
+  },
+  {
+    name: 'The Wikimedia Foundation',
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wikimedia_Foundation_logo_-_vertical.svg/1200px-Wikimedia_Foundation_logo_-_vertical.svg.png',
+    projectLink: 'https://www.mediawiki.org/wiki/How_to_contribute',
+    description: 'MediaWiki helps you collect and organize knowledge and make it available to people.',
+    tags: ['HTML', 'JS', 'gerrit'],
+  },
+  {
     name: 'Homebrew',
     imageSrc: 'https://avatars2.githubusercontent.com/u/1503512?v=3&s=100',
     projectLink: 'https://github.com/Homebrew/brew/contribute',
